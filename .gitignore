@@ -7,3 +7,5 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+inventory.ini
+*.pem
