@@ -1,0 +1,6 @@
+- name: Configure AWS VM
+  hosts: aws
+  become: true
+
+  roles:
+    - server_setup
